@@ -2,7 +2,8 @@
 
 describe('Tesonet.com Web page test', () => {
     it('Open page', () => {
-        cy.visit("https://tesonet.com/")       
+        cy.visit("https://tesonet.com/")   
+        cy.wait(2000)
     })
     it('Count the number of categories available on Career page', () => {
         cy.get('#menu-item-19').click()
