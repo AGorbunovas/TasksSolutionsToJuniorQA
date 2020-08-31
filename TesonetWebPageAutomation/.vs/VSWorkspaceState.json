@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\examples",
+    "\\cypress\\plugins",
+    "\\cypress\\screenshots",
+    "\\cypress\\support",
+    "\\cypress\\videos",
+    "\\cypress\\videos\\examples"
+  ],
+  "SelectedNode": "\\cypress\\integration\\examples\\Tesonet.js",
+  "PreviewInSolutionExplorer": false
+}
